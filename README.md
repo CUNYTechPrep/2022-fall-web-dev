@@ -15,4 +15,4 @@
 - Wednesday Class
 - Thursday Class
 - [Friday 3pm Class](friday-3.md)
-- [Friday 6pm Class](friday-6pm.md)
+- [Friday 6pm Class](friday-6.md)
