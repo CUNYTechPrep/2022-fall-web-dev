@@ -11,8 +11,8 @@
 [Summer Homework](link) -->
 
 
-- Tuesday Class
-- Wednesday Class
-- Thursday Class
+- [Tuesday Class](tuesday.md)
+- [Wednesday Class](wednesday.md)
+- [Thursday Class](thursday.md)
 - [Friday 3pm Class](friday-3.md)
 - [Friday 6pm Class](friday-6.md)
