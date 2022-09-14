@@ -5,7 +5,7 @@ Tuesday 6:30-9pm Section
 
 ## (8/30) Week 1
 
-Lecture Slides (_coming soon_)
+[Slides Week 1: Welcome, Project Ideation, Bootstrap](https://docs.google.com/presentation/d/1x3ZgpUU78Szlv2MYEurGWT2MGifaogVynjpbzqjBofg/edit?usp=sharing)
 
 [Bootstrap Lab](https://github.com/CUNYTechPrep/lab-bootstrap-5.2)
 
@@ -21,21 +21,38 @@ Assignments:
 
 - **Project Ideation**: provide your idea in the ideation document
     + *If you did not finish this in class finish it before Week 2*
+    + Ideation slides are bookmarked in your Slack channel
 - Meet your classmates and **form teams**
     + Read through your classmates ideas and contact them over slack
     + Formed teams due in Week 3 class
+- Complete and submit the Boostrap Lab by Week 2
 
 
 ## (9/6) Week 2
+
+[Slides: React Intro](https://docs.google.com/presentation/d/1Irg_ScxrLVN425nsA1vn7rZ-vv83G0XsB3jQPodXnfA/edit?usp=sharing)
+
+[Tutorial: Learn React 1](https://github.com/CUNYTechPrep/2022-fall-web-dev/blob/main/materials/learn-react-1.md)
 
 Topics:
 
 - React Intro
 
+Assignments:
+
+- Form teams by Week 3
+
 
 
 ## (9/13) Week 3
 
+[Slides: URL's & HTTP Request and Response](https://docs.google.com/presentation/d/1hJgCCh3UiygFQ6q8_G7_KCn332rGuo6VPHlM49JM4Ao/edit?usp=sharing)
+
+[Slides: fetch() & fetching in React](https://docs.google.com/presentation/d/1ctGUH2sYpqDjo268t_nL0A3u1t6tzAqwk-mw5WIxwnM/edit?usp=sharing)
+
+[Lab: React Toggle](https://github.com/CUNYTechPrep/lab-react-toggle)
+
+[Lab: React Trivia](https://github.com/CUNYTechPrep/lab-react-trivia)
 
 Topics:
 
@@ -45,6 +62,10 @@ Topics:
 - `fetch(...)` and Promises
 - More React
 
+Assignments:
+
+- Teams should submit a [team project proposal](https://github.com/CUNYTechPrep/2022-fall-web-dev/blob/main/materials/team-project-proposal.md) by start of Week 4 class
+- Complete and submit [Lab: React Toggle](https://github.com/CUNYTechPrep/lab-react-toggle)
 
 ## (9/20) Week 4
 
