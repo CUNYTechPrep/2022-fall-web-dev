@@ -31,3 +31,5 @@ _It should be **2 pages max**. You do not have to include mockups or data models
 ## Submit
 
 Submit your team proposal here: https://forms.gle/TijnKEjW7n9eLhFU9
+
+**Due:** Week 4
