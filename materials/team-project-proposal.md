@@ -27,3 +27,7 @@ _It should be **2 pages max**. You do not have to include mockups or data models
     - To learn more about User stories read:
         + https://dzone.com/articles/writing-user-stories-web
         + https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories
+
+## Submit
+
+Submit your team proposal here: https://forms.gle/TijnKEjW7n9eLhFU9
