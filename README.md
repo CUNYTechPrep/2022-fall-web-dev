@@ -2,7 +2,7 @@
 
 [CUNY Tech Prep](https://cunytechprep.org/) is a [NYC Tech Talent Pipeline](http://www.techtalentpipeline.nyc/) program designed to provide exceptional Computer Science students in the [CUNY](https://www.cuny.edu/) senior college system with in-demand software development and professional skills.
 
----
+-----
 
 # Fall 2022 Web Dev/Data Science Track <br />_Class Schedule and Materials_
 
