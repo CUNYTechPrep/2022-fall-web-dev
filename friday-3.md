@@ -66,6 +66,7 @@ Topics:
 Assignments:
 
 - Teams should submit a [team project proposal](https://github.com/CUNYTechPrep/2022-fall-web-dev/blob/main/materials/team-project-proposal.md) by start of Week 4 class
+- Complete and submit [Lab: React Toggle](https://github.com/CUNYTechPrep/lab-react-toggle)
 
 ## (9/23) Week 4
 
