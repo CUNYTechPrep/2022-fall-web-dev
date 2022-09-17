@@ -3,7 +3,7 @@
 
 Wednesday 6:30-9pm Section
 
-
+[Development Environment Setup Instructions](https://github.com/CUNYTechPrep/guides#development-environment-setup)
 ___
 ## (8/31) Week 1
 
@@ -62,6 +62,9 @@ ___
 
 Topics:
 - More `fetch()` and React
+
+Assignments:
+- [React Zip Code Search Lab](https://github.com/CUNYTechPrep/lab-react-zip-search)
 ___
 
 
