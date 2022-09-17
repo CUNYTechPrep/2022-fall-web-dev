@@ -52,6 +52,9 @@ Topics:
 - More React
     + [Lab: React Toggle](https://github.com/CUNYTechPrep/lab-react-toggle)
     + [Lab: React Trivia](https://github.com/CUNYTechPrep/lab-react-trivia)
+
+Assignments:
+- [Submit Team Project Proposal](https://github.com/CUNYTechPrep/2022-fall-web-dev/blob/main/materials/team-project-proposal.md)
 ___
 
 
