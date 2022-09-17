@@ -5,7 +5,7 @@ Friday 6pm Section
 
 ## (8/26) Week 1
 
-Lecture Slides (_coming soon_)
+[Lecture Slides](https://docs.google.com/presentation/d/1o8g0k32GoYaWl-Jxyc0s5tfqPF6D3Y0bC8NzlfgvNtI/edit?usp=sharing)
 
 [Bootstrap Lab](https://github.com/CUNYTechPrep/lab-bootstrap-5.2)
 
@@ -32,7 +32,7 @@ Assignments:
 
 Topics:
 
-- React Intro
+- [React Intro](https://docs.google.com/presentation/d/1CSbULftt5IP89SKdYIUZM_04BlkgonVys9_-B4F6nZ8/edit?usp=sharing)
 
 
 
@@ -46,6 +46,8 @@ Topics:
     + Understanding HTTP Request-Response
 - `fetch(...)` and Promises
 - More React
+
+[Slides](https://docs.google.com/presentation/d/1C8UvHIol1NeKwiFhQII-3-UJKqjRMkBm7iUl8i5mi-c/edit?usp=sharing)
 
 
 ## (9/23) Week 4
