@@ -92,7 +92,8 @@ function App() {
       </div>
     </div>
   );
-}```
+}
+```
 
 Assignments:
 - [React Zip Code Search Lab](https://github.com/CUNYTechPrep/lab-react-zip-search)
