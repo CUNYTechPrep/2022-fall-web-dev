@@ -63,6 +63,37 @@ ___
 Topics:
 - More `fetch()` and React
 
+Class Example:
+```
+function App() {
+  const [data, setData] = useState([]);
+  const [zipCode, setZipCode] = useState('');
+
+  const fetchData = () => {
+    fetch('https://ctp-zip-api.herokuapp.com/zip/' + zipCode , {
+      'mode' : 'cors',
+      headers: {
+        'Content-Type' : 'application/json',
+      }
+    })
+    .then((response) => response.json())
+    .then((responseData) => setData(responseData))
+    .catch((error) => console.log(error));
+  }
+
+  return (
+    <div className="App">
+      <div style={{marginTop: 20}}>
+        <div>
+          <input type="text" onChange={(e) => setZipCode(e.target.value)}></input>
+        </div>
+        <button onClick={() => fetchData(zipCode)}>Search</button>
+        <pre>{JSON.stringify(data)}</pre>
+      </div>
+    </div>
+  );
+}```
+
 Assignments:
 - [React Zip Code Search Lab](https://github.com/CUNYTechPrep/lab-react-zip-search)
 ___
