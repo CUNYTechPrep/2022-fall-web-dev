@@ -74,6 +74,10 @@ Topics:
 
 - More `fetch()` and React
 
+Assignments:
+
+- Complete and submit [Lab: React Trivia](https://github.com/CUNYTechPrep/lab-react-trivia)
+
 ## (9/30) NO CLASS
 
 ## (10/7) Week 5
