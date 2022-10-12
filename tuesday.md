@@ -73,9 +73,15 @@ Topics:
 
 - More `fetch()` and React
 
+Assignments:
+
+- Complete and submit [Lab: React Trivia](https://github.com/CUNYTechPrep/lab-react-trivia)
 
 ## (9/27) Week 5
 
+[Slides: Full Stack Overview](https://docs.google.com/presentation/d/1x6mtEjdU2JhhJuUaoP0LC4_uMtTUEpNDxD6NIabnkKM/edit?usp=sharing)
+
+[Slides: NPM & Express.js](https://docs.google.com/presentation/d/1oWHbjoTU3BdrCpZ51I73D3YRLkManTQtkUheegribg4/edit?usp=sharing)
 
 Topics:
 
@@ -87,6 +93,10 @@ Topics:
     + Query Parameters
     + Body Parameters
 - RESTful Routing
+
+Assignments:
+
+- Complete and submit [Lab: React Zip Search](https://github.com/CUNYTechPrep/lab-react-zip-search) by week 6
 
 ## (10/4) NO CLASS
 

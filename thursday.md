@@ -5,7 +5,7 @@ Thursday 6:30-9pm Section
 
 ## (9/1) Week 1
 
-Lecture Slides (_coming soon_)
+[Slides Week 1: Welcome, Project Ideation, Bootstrap](https://docs.google.com/presentation/d/1x3ZgpUU78Szlv2MYEurGWT2MGifaogVynjpbzqjBofg/edit?usp=sharing)
 
 [Bootstrap Lab](https://github.com/CUNYTechPrep/lab-bootstrap-5.2)
 
@@ -28,13 +28,29 @@ Assignments:
 
 ## (9/8) Week 2
 
+[Slides: React Intro](https://docs.google.com/presentation/d/1Irg_ScxrLVN425nsA1vn7rZ-vv83G0XsB3jQPodXnfA/edit?usp=sharing)
+
+[Tutorial: Learn React 1](https://github.com/CUNYTechPrep/2022-fall-web-dev/blob/main/materials/learn-react-1.md)
+
 Topics:
 
 - React Intro
 
+Assignments:
+
+- Form teams by Week 3
+
 
 
 ## (9/15) Week 3
+
+[Slides: URL's & HTTP Request and Response](https://docs.google.com/presentation/d/1hJgCCh3UiygFQ6q8_G7_KCn332rGuo6VPHlM49JM4Ao/edit?usp=sharing)
+
+[Slides: fetch() & fetching in React](https://docs.google.com/presentation/d/1ctGUH2sYpqDjo268t_nL0A3u1t6tzAqwk-mw5WIxwnM/edit?usp=sharing)
+
+[Lab: React Toggle](https://github.com/CUNYTechPrep/lab-react-toggle)
+
+[Lab: React Trivia](https://github.com/CUNYTechPrep/lab-react-trivia)
 
 
 Topics:
@@ -45,6 +61,11 @@ Topics:
 - `fetch(...)` and Promises
 - More React
 
+Assignments:
+
+- Teams should submit a [team project proposal](https://github.com/CUNYTechPrep/2022-fall-web-dev/blob/main/materials/team-project-proposal.md) by start of Week 4 class
+- Complete and submit [Lab: React Toggle](https://github.com/CUNYTechPrep/lab-react-toggle)
+
 
 ## (9/22) Week 4
 
@@ -52,11 +73,18 @@ Topics:
 
 - More `fetch()` and React
 
+Assignments:
+
+- Complete and submit [Lab: React Trivia](https://github.com/CUNYTechPrep/lab-react-trivia)
+
 ## (9/29) NO CLASS
 
 
 ## (10/6) Week 5
 
+[Slides: Full Stack Overview](https://docs.google.com/presentation/d/1x6mtEjdU2JhhJuUaoP0LC4_uMtTUEpNDxD6NIabnkKM/edit?usp=sharing)
+
+[Slides: NPM & Express.js](https://docs.google.com/presentation/d/1oWHbjoTU3BdrCpZ51I73D3YRLkManTQtkUheegribg4/edit?usp=sharing)
 
 Topics:
 
@@ -69,6 +97,9 @@ Topics:
     + Body Parameters
 - RESTful Routing
 
+Assignments:
+
+- Complete and submit [Lab: React Zip Search](https://github.com/CUNYTechPrep/lab-react-zip-search) by week 6
 
 
 

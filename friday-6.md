@@ -60,7 +60,6 @@ Topics:
 
 ## (10/7) Week 5
 
-
 Topics:
 
 - Fullstack Review: Frontend vs Backend
@@ -71,6 +70,8 @@ Topics:
     + Query Parameters
     + Body Parameters
 - RESTful Routing
+
+[Slides](https://docs.google.com/presentation/d/17QV7xkmlTuLd2fetAPcQg7cBQlZniIjd9AgiQKu2ahA/edit?usp=sharing)
 
 ## (10/14) Week 6
 
