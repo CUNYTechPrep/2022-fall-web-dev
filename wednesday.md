@@ -120,6 +120,10 @@ ___
 
 ## (10/12) Week 6
 
+Lecture Slides:
+
+[Week 6](https://docs.google.com/presentation/d/1B_axNuiBuRdlivvITJYF2AS8RCWSa84XBGSR7Iw0S64/edit#slide=id.p)
+
 Topics:
 - SDLC (software development lifecycle)
 - MVC (_Models-Views-Controllers_) Project Structure
@@ -127,7 +131,6 @@ Topics:
 - ORM's (Sequelize.js)
 
 [CTP Design Doc Template](https://github.com/CUNYTechPrep/lab-react-zip-search)
-
 ___
 
 
