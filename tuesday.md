@@ -103,6 +103,8 @@ Assignments:
 
 ## (10/11) Week 6
 
+[Slides: SDLC (software development lifecycle)](https://docs.google.com/presentation/d/1B_axNuiBuRdlivvITJYF2AS8RCWSa84XBGSR7Iw0S64/edit?usp=sharing)
+
 Topics:
 
 - SDLC (software development lifecycle)
