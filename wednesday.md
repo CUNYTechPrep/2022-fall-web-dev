@@ -130,7 +130,7 @@ Topics:
 - Databases and Data Modeling
 - ORM's (Sequelize.js)
 
-[CTP Design Doc Template](https://github.com/CUNYTechPrep/lab-react-zip-search)
+[CTP Design Doc Template](https://docs.google.com/document/d/15lwdcMIoJKBQjHIaDPmmK1V6-TIZscRSO_COg_x5hZs/edit#heading=h.lr551yfcle69)
 ___
 
 
