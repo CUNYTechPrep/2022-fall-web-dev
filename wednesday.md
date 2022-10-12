@@ -106,10 +106,10 @@ Topics:
 - Fullstack Review: Frontend vs Backend
 - About `npm`
 - Building a backend with Express.js
-    + Routing
-    + Route Parameters
-    + Query Parameters
-    + Body Parameters
+  + Routing
+  + Route Parameters
+  + Query Parameters
+  + Body Parameters
 - RESTful Routing
 ___
 
@@ -125,6 +125,9 @@ Topics:
 - MVC (_Models-Views-Controllers_) Project Structure
 - Databases and Data Modeling
 - ORM's (Sequelize.js)
+
+[CTP Design Doc Template](https://github.com/CUNYTechPrep/lab-react-zip-search)
+
 ___
 
 
