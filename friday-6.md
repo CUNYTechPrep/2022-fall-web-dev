@@ -75,7 +75,7 @@ Topics:
 
 ## (10/14) Week 6
 
-Topics:
+Topics: [Slides](https://docs.google.com/presentation/d/1SLijBd51ea5MDVxZJZPEg9KW5q04rLLrfLfsWHKJclY/edit#slide=id.g163e068e854_0_202)
 
 - SDLC (software development lifecycle)
 - MVC (_Models-Views-Controllers_) Project Structure
