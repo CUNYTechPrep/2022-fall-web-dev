@@ -105,7 +105,7 @@ Topics:
 
 Assignments:
 
-- Complete and submit [Lab: Zip Code API](https://github.com/CUNYTechPrep/zip-code-api-lab) by week 6
+- Complete and submit [Lab: Zip Code API](https://github.com/CUNYTechPrep/zip-code-api-lab) by week 7
 - Work on your teams [design document](https://docs.google.com/document/d/15Cs2h6f83mXQWmCoSQ37N2fwiKui9Oli9Ph1WwXsDSY/edit) 
     + share with your project mentor (instructor or TA)
     + work on it throughout remaining semester, does not need to be complete
