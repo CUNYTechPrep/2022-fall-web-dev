@@ -106,10 +106,10 @@ Topics:
 - Fullstack Review: Frontend vs Backend
 - About `npm`
 - Building a backend with Express.js
-    + Routing
-    + Route Parameters
-    + Query Parameters
-    + Body Parameters
+  + Routing
+  + Route Parameters
+  + Query Parameters
+  + Body Parameters
 - RESTful Routing
 ___
 
@@ -120,11 +120,17 @@ ___
 
 ## (10/12) Week 6
 
+Lecture Slides:
+
+[Week 6](https://docs.google.com/presentation/d/1B_axNuiBuRdlivvITJYF2AS8RCWSa84XBGSR7Iw0S64/edit#slide=id.p)
+
 Topics:
 - SDLC (software development lifecycle)
 - MVC (_Models-Views-Controllers_) Project Structure
 - Databases and Data Modeling
 - ORM's (Sequelize.js)
+
+[CTP Design Doc Template](https://docs.google.com/document/d/15lwdcMIoJKBQjHIaDPmmK1V6-TIZscRSO_COg_x5hZs/edit#heading=h.lr551yfcle69)
 ___
 
 

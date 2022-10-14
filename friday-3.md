@@ -96,18 +96,26 @@ Topics:
 
 ## (10/14) Week 6
 
+[Slides: SDLC & Collaboration](https://docs.google.com/presentation/d/1B_axNuiBuRdlivvITJYF2AS8RCWSa84XBGSR7Iw0S64/edit?usp=sharing)
+
 Topics:
 
 - SDLC (software development lifecycle)
-- MVC (_Models-Views-Controllers_) Project Structure
-- Databases and Data Modeling
-- ORM's (Sequelize.js)
+- Design Documents
+
+Assignments:
+
+- Complete and submit [Lab: Zip Code API](https://github.com/CUNYTechPrep/zip-code-api-lab) by week 7
+- Work on your teams [design document](https://docs.google.com/document/d/15Cs2h6f83mXQWmCoSQ37N2fwiKui9Oli9Ph1WwXsDSY/edit) 
+    + share with your project mentor (instructor or TA)
+    + work on it throughout remaining semester, does not need to be complete
 
 ## (10/21) Week 7
 
 
 Topics:
 
+- MVC (_Models-Views-Controllers_) Project Structure
 - Using MVC app structure
 - Project Starter setup and walkthrough
 
@@ -117,6 +125,8 @@ Topics:
 
 Topics:
 
+- Databases and Data Modeling
+- ORM's (Sequelize.js)
 - Using Sequelize.js
 - Testing (Jest)
 
