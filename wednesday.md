@@ -127,8 +127,7 @@ Lecture Slides:
 Topics:
 - SDLC (software development lifecycle)
 - MVC (_Models-Views-Controllers_) Project Structure
-- Databases and Data Modeling
-- ORM's (Sequelize.js)
+
 
 [CTP Design Doc Template](https://docs.google.com/document/d/15lwdcMIoJKBQjHIaDPmmK1V6-TIZscRSO_COg_x5hZs/edit#heading=h.lr551yfcle69)
 ___
@@ -139,13 +138,16 @@ ___
 Topics:
 - Using MVC app structure
 - Project Starter setup and walkthrough
+
+[Project Starter](https://github.com/CUNYTechPrep/project-starter)
 ___
 
 
 ## (10/26) Week 8
 
 Topics:
-- Using Sequelize.js
+- Databases and Data Modeling
+- ORM's (Sequelize.js)
 - Testing (Jest)
 ___
 
