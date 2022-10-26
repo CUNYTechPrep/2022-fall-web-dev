@@ -134,6 +134,7 @@ ___
 
 
 ## (10/19) Week 7
+[Lecture Slides](https://github.com/CUNYTechPrep/2022-fall-web-dev/blob/main/materials/mvc-data-modeling-2022.pdf)
 
 Topics:
 - Using MVC app structure
@@ -144,10 +145,12 @@ ___
 
 
 ## (10/26) Week 8
+[Lecture Slides](https://github.com/CUNYTechPrep/2022-fall-web-dev/blob/main/materials/mvc-data-modeling-2022.pdf)
 
 Topics:
 - Databases and Data Modeling
 - ORM's (Sequelize.js)
+  - [Learn Sequelize Lab](https://github.com/CUNYTechPrep/learn-sequelize)
 - Testing (Jest)
 ___
 
