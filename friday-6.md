@@ -94,7 +94,7 @@ Topics: [Slides](https://docs.google.com/presentation/d/1oyxpzznt0A9xu31JM5-7MWw
 ## (10/28) Week 8
 
 
-Topics: [Slides](https://docs.google.com/presentation/d/1oyxpzznt0A9xu31JM5-7MWweb_IRw_m-xVpBa_Np_RM/edit?usp=sharing)
+Topics: [Slides](https://drive.google.com/file/d/1CV3m2gDrvozZ3h10xGMaWnwpTEAX9iQ6/view?usp=sharing)
 
 - Using Sequelize.js
 - Testing (Jest)
