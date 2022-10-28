@@ -85,7 +85,7 @@ Topics: [Slides](https://docs.google.com/presentation/d/1SLijBd51ea5MDVxZJZPEg9K
 ## (10/21) Week 7
 
 
-Topics:
+Topics: [Slides](https://docs.google.com/presentation/d/1oyxpzznt0A9xu31JM5-7MWweb_IRw_m-xVpBa_Np_RM/edit?usp=sharing)
 
 - Using MVC app structure
 - Project Starter setup and walkthrough
@@ -94,7 +94,7 @@ Topics:
 ## (10/28) Week 8
 
 
-Topics:
+Topics: [Slides](https://docs.google.com/presentation/d/1oyxpzznt0A9xu31JM5-7MWweb_IRw_m-xVpBa_Np_RM/edit?usp=sharing)
 
 - Using Sequelize.js
 - Testing (Jest)
