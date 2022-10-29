@@ -112,6 +112,9 @@ Assignments:
 
 ## (10/21) Week 7
 
+[Slides: MVC (slides 1-15)](materials/mvc-data-modeling-2022.pdf)
+
+[Project Starter Template](https://github.com/CUNYTechPrep/project-starter)
 
 Topics:
 
@@ -122,6 +125,9 @@ Topics:
 
 ## (10/28) Week 8
 
+[Slides: Databases & Data Modeling (slides 16-42)](materials/mvc-data-modeling-2022.pdf)
+
+[Lab: Learn Sequelize](https://github.com/CUNYTechPrep/learn-sequelize)
 
 Topics:
 
@@ -129,6 +135,17 @@ Topics:
 - ORM's (Sequelize.js)
 - Using Sequelize.js
 - Testing (Jest)
+
+Assignments:
+
+- First Project Presentation
+    - During Week 9 class
+    - Presentation Guidelines
+    - 8 minutes per team (5 min presentation, 3 min Q&A)
+    - All team members must present at least one slide
+    - See a presentation template here: [first_project_presentation_template.pdf](materials/first_project_presentation_template.pdf)
+    - (Optional) Show a demo of work in progress if you can, otherwise show your mockups/design
+
 
 ## (11/4) Week 9
 
