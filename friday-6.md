@@ -111,7 +111,7 @@ Topics:
 ## (11/11) Week 10
 
 
-Topics:
+Topics: [Code Review](https://github.com/CUNYTechPrep/2021-fall-web-dev/blob/main/materials/code-reviews.pdf)
 
 - Code Reviews
 - Software Engineering Best Practices
